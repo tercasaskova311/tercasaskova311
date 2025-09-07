@@ -1,5 +1,12 @@
-# 💫 About Me:
-## Hi there 👋<br><br>I’m Tereza Sásková, a student of the Master’s program in Data Science at the University of Trento and a former professional mountain biker.<br>My background blends sports, marketing, and tech — from organizing events and instructing at ski resorts to analyzing data and supporting NGOs.<br><br>- 🔭 Currently: Master of Science in Data Science, Trento (2024–2026) & Marketing and Program Lead at Sport Šumava<br>- 🌱 I’m currently learning ML Automatization tools, C, big data parallel processing<br>- 👯 I’m looking to collaborate on project in geospacial data analysis, ML, Big data <br>- 🤔 I’m looking for help with social justice and enviromental projects<br>- 💬 Ask me about ...<br>- 📫 How to reach me: email<br>- ⚡ Fun fact: I am ex viceworld mountain bike champion<br>
+## Hi I am Terka 👋
+
+- My background blends sports, marketing, and tech — from organizing events and instructing at ski resorts to analyzing data and supporting NGOs
+- Currently: Master of Science in Data Science, Trento (2024–2026) & Marketing and Program Lead at Sport Šumava
+- I’m currently learning ML Automatization tools, C, big data parallel processing
+- I’m looking to collaborate on project in geospacial data analysis, ML, Big data
+- I’m looking for help with social justice and enviromental projects
+- How to reach me: tercasaskova311@gmail.com
+- ⚡ Fun fact: I am ex viceworld mountain bike champion
 
 
 ## 🌐 Socials:
