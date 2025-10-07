@@ -2,9 +2,9 @@
 
 - Currently: M.Sc. in Data Science, University of Trento (2024–2026) · Marketing & Program Lead, Sport Šumava
 - Interests: Geospatial analysis, big-data processing, ML for public good
-- Learning: ML automation tools, C, parallel & distributed computing
-- Open to collaborate on: Geospatial data analysis, ML, big data pipelines 
-- Looking for help with: Social-justice and environmental projects (research, data, partners)
+- Learning: Data Engeneering tools (Dask, Flask), ML automation tools, C, parallel & distributed computing
+- Open to collaborate on: ML, big data pipelines, Geospatial data analysis
+- Looking for help with: Social-justice and environmental projects (research, data)
 - Contact: tercasaskova311@gmail.com
 - Fun fact: Former mountain bike vice world champion 
 
