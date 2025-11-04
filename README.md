@@ -6,7 +6,7 @@
 - Open to collaborate on: ML, big data pipelines, Geospatial data analysis
 - Looking for help with: Social-justice and environmental projects (research, data)
 - For more info about me & my projects, check out: www.terezasaskova.com
-- Contact: tercasaskova311@gmail.com
+- Contact: tereza.saskova@proton.me
 - Fun fact: Former mountain bike vice world champion 
 
 
