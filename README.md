@@ -1,10 +1,10 @@
 ## Hi I am Terka 👋
 
 - Currently: M.Sc. in Data Science, University of Trento (2024–2026) · Marketing & Program Lead, Sport Šumava
-- Interests: Geospatial analysis, big-data processing, ML for public good
-- Learning: Data Engeneering tools (Dask, Flask), ML automation tools, C, parallel & distributed computing
-- Open to collaborate on: ML, big data pipelines, Geospatial data analysis
-- Looking for help with: Social-justice and environmental projects (research, data)
+- Interests: Dat Engeneering & big-data tech, GIS, ML for public good
+- Learning: Data Engeneering tools (Dask, Flask), ML automation tools, parallel & distributed computing
+- Open to collaborate on: big data pipelines, ML tasks, Geospatial data analysis
+- Happy to help with: Social-justice and environmental projects (research, data)
 - For more info about me & my projects, check out: www.terezasaskova.com
 - Contact: tereza.saskova@proton.me
 - Fun fact: Former mountain bike vice world champion 
