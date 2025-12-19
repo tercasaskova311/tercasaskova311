@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0d1117,100:1a1a2e&height=150&section=header&text=&fontSize=0&fontColor=ffffff&animation=fadeIn&customColorList=0,2,3,5,7)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8B1538,50:4a0e4e,100:1a1a2e&height=200&section=header)
 
 ## Hi I am Terka 👋
 
