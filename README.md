@@ -13,28 +13,18 @@
 - 🌲 Remote sensing & satellite imagery analysis
 - 📚 Currently learning: distributed computing, data modeling, advance SQL, Spark, GIS tools
 
----
-
-## 🌐 Portfolio: [terezasaskova.com](https://www.terezasaskova.com)
-## 📧 Email: tereza.saskova@proton.me
+🌐 Portfolio: [terezasaskova.com](https://www.terezasaskova.com) | 📧 Email: tereza.saskova@proton.me
 
 ---
-## 🔭 Currently Working On
+## Currently Working On
 
 🛰️ **Deforestation Monitoring in Šumava National Park**
 Build an automated system to detect logging/deforestation events in Šumava National Park using satellite imagery from Sentinel2 and classical image processing techniques, train a ML model and design an architecture that can be deployed.
-⚙️ **Data Engineering** - A web app for Ski Zadov, automating weekly ski school registrations. A Flask + PostgreSQL web app, that automates registration limits (8 out of 12 weeks). Automatically closes registration every Wednesday at 24:00 and provides an admin dashboard with Google Sheets synchronization.
 
----
-
-## Featured Projects
-
-Check out my pinned repositories for:
-- 🌲 **Satellite-based Forest Monitoring** - using sentinel 2 imaginery
-- 📊 **Big Data Pipelines** - Podcast recommendation platfrom
+⚙️ **Data Engineering** 
+A web app for Ski Zadov, automating weekly ski school registrations. A Flask + PostgreSQL web app, that automates registration limits (8 out of 12 weeks). Automatically closes registration every Wednesday at 24:00 and provides an admin dashboard with Google Sheets synchronization.
 
 **Explore my pinned repos below!**
-
 
 ---
 ## 💻 Tech Stack
@@ -74,32 +64,34 @@ Check out my pinned repositories for:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
----
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=tercasaskova311&theme=rose&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tercasaskova311&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tercasaskova311&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tercasaskova311&theme=rose&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tercasaskova311&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tercasaskova311&theme=rose&no-frame=false&no-bg=false&margin-w=4&row=2)
+### 🔝 Top Contributions & 🏆 Achievements
 
-## 📈 Contribution Activity Graph
-[![Terka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tercasaskova311&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity%20Over%20Time)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=tercasaskova311&limit=5&theme=rose&combine_all_yearly_contributions=true"/>
+</p>
 
-## 🐍 Contribution Snake:
+---
 
-![snake gif](https://github.com/tercasaskova311/tercasaskova311/blob/output/github-contribution-grid-snake.svg)
+## 📈 Contribution Activity & 🐍 Snake
 
-## Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=tercasaskova311&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
+  <img width="48%" height="180em" src="https://raw.githubusercontent.com/tercasaskova311/tercasaskova311/output/github-contribution-grid-snake.svg"/>
+</p>
 
-## Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tercasaskova311&limit=5&theme=rose&combine_all_yearly_contributions=true)
+## 💡 Random Dev Quote
 
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
