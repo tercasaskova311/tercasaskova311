@@ -1,12 +1,17 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=8B1538&height=200&section=header&text=Tereza%20Saskova&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20Former%20MTB%20World%20Champion%20&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0d1117,100:1a1a2e&height=150&section=header&text=&fontSize=0&fontColor=ffffff&animation=fadeIn&customColorList=0,2,3,5,7)
 
 ## Hi I am Terka 👋
 
-- Currently: M.Sc. in Data Science, University of Trento (2024–2026) · Database Coordinator for a ski & bike school, Program lead - Sport Šumava
-- Interests: Data Engineering & big-data tech, GIS, ML for public good
-- Learning: Data Engineering tools (Dask, Spark, Airflow, cloud), ML automation tools & distributed computing
-- Open to collaborate on: big data pipelines, ML tasks, Geospatial data analysis
-- Fun fact: Former mountain bike vice world champion 
+**🎓 Currently:** M.Sc. Data Science @ University of Trento (2024–2026)  
+**💼 Also:** Database Coordinator for a ski & bike school, Program lead @ Sport Šumava  
+**🏆 Previously:** Mountain Bike Vice World Champion  
+
+### What I'm interested in
+- 🔧 Data Engineering & big-data tech (Kafka, Spark, Airflow)
+- 🗺️ GIS & geospatial analysis
+- 🤖 ML for public good (environmental & social justice projects)
+- 🌲 Remote sensing & satellite imagery analysis
+- 📚 Currently learning: distributed computing, data modeling, advance SQL, Spark, GIS tools
 
 ---
 
@@ -70,56 +75,31 @@ Check out my pinned repositories for:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
 ---
-
 # 📊 GitHub Stats:
 
-<div align="center">
-  
+![](https://github-readme-stats.vercel.app/api?username=tercasaskova311&theme=rose&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tercasaskova311&theme=rose&hide_border=false)<br/>
-
-</div>
-
-<div align="center">
-  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tercasaskova311&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-[![Terka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tercasaskova311&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tercasaskova311&theme=rose&no-frame=false&no-bg=false&margin-w=4&row=2)
 
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=tercasaskova311&theme=rose&no-frame=false&no-bg=false&margin-w=4&row=1)
+## 📈 Contribution Activity Graph
+[![Terka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tercasaskova311&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity%20Over%20Time)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+## 🐍 Contribution Snake:
 
----
+![snake gif](https://github.com/tercasaskova311/tercasaskova311/blob/output/github-contribution-grid-snake.svg)
 
-## Contribution Snake
+## Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tercasaskova311/tercasaskova311/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tercasaskova311/tercasaskova311/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tercasaskova311/tercasaskova311/output/github-contribution-grid-snake.svg">
-</picture>
-
----
+## Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tercasaskova311&limit=5&theme=rose&combine_all_yearly_contributions=true)
 
----
-
-
-
-
----
 
