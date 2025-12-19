@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8B1538,50:4a0e4e,100:1a1a2e&height=200&section=header)
 
-## Hi I am Terka 👋
+## Hi I'm Terka 👋
 
 **🎓 Currently:** M.Sc. Data Science @ University of Trento (2024–2026)  
 **💼 Also:** Database Coordinator for a ski & bike school, Program lead @ Sport Šumava  
