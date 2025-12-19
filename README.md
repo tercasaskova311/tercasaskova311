@@ -1,50 +1,37 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=8B1538&height=200&section=header&text=Tereza%20Saskova&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20Former%20MTB%20World%20Champion%20🚴‍♀️&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=8B1538&height=200&section=header&text=Tereza%20Saskova&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20Former%20MTB%20World%20Champion%20&descAlignY=55&descSize=20)
 
-## 👋 Hi, I'm Terka!
+## Hi I am Terka 👋
 
-**🎓 Currently:** M.Sc. Data Science @ University of Trento (2024–2026)  
-**💼 Also:** Database Coordinator for a ski & bike school, Program lead @Sport Šumava
-**🏆 Previously:** Mountain Bike Vice World Champion  
-
-### What I'm interested in
-- Data Engineering & big-data tech (Kafka, Spark, Airflow)
-- GIS & geospatial analysis
-- ML for public good (environmental & social justice projects)
-- Remote sensing & satellite imagery analysis
-- Currently learning: Dask, Spark, distributed computing, GIS 
-
-
-- 🌐 Portfolio: [terezasaskova.com](https://www.terezasaskova.com)
-- 📧 Email: tereza.saskova@proton.me
+- Currently: M.Sc. in Data Science, University of Trento (2024–2026) · Database Coordinator for a ski & bike school, Program lead - Sport Šumava
+- Interests: Data Engineering & big-data tech, GIS, ML for public good
+- Learning: Data Engineering tools (Dask, Spark, Airflow, cloud), ML automation tools & distributed computing
+- Open to collaborate on: big data pipelines, ML tasks, Geospatial data analysis
+- Fun fact: Former mountain bike vice world champion 
 
 ---
 
+## 🌐 Portfolio: [terezasaskova.com](https://www.terezasaskova.com)
+## 📧 Email: tereza.saskova@proton.me
+
+---
 ## 🔭 Currently Working On
 
-🛰️ **Deforestation Monitoring** - Using Sentinel-2 satellite imagery & ML to detect forest changes in Šumava National Park  
-🏗️ **Data Engineering** - Finetuning a registration system for a ski school.
+🛰️ **Deforestation Monitoring in Šumava National Park**
+Build an automated system to detect logging/deforestation events in Šumava National Park using satellite imagery from Sentinel2 and classical image processing techniques, train a ML model and design an architecture that can be deployed.
+⚙️ **Data Engineering** - A web app for Ski Zadov, automating weekly ski school registrations. A Flask + PostgreSQL web app, that automates registration limits (8 out of 12 weeks). Automatically closes registration every Wednesday at 24:00 and provides an admin dashboard with Google Sheets synchronization.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 Check out my pinned repositories for:
-- 🌲 **Satellite-based Forest Monitoring** - Time-series analysis of Sentinel-2 imagery
-- 📊 **Big Data Pipelines** - Real-time streaming with Kafka & Spark
+- 🌲 **Satellite-based Forest Monitoring** - using sentinel 2 imaginery
+- 📊 **Big Data Pipelines** - Podcast recommendation platfrom
 
-👇 **Explore my pinned repos below!**
+**Explore my pinned repos below!**
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tereza-saskova/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tereza.saskova@proton.me)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/terka.saskova)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B1538?logo=google-chrome&logoColor=white)](https://www.terezasaskova.com)
 
 ---
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -84,56 +71,55 @@ Check out my pinned repositories for:
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=tercasaskova311&theme=rose&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tercasaskova311&theme=rose&hide_border=false)<br/>
+<div align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=tercasaskova311&theme=rose&hide_border=false)<br/>
+
+</div>
+
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tercasaskova311&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repos
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+[![Terka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tercasaskova311&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=tercasaskova311&theme=rose&no-frame=false&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tercasaskova311/tercasaskova311/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tercasaskova311/tercasaskova311/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tercasaskova311/tercasaskova311/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tercasaskova311&limit=5&theme=rose&combine_all_yearly_contributions=true)
 
 ---
 
-## 🎯 GitHub Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
-<details>
-  <summary>📈 Contribution Graph</summary>
-  <br/>
-  
-  [![Terka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tercasaskova311&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</details>
 
 ---
 
-## ⚡ Fun Facts
-
-- 🚴‍♀️ Former MTB Vice World Champion → Data Scientist (proof that discipline translates across domains!)
-
----
-
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/tercasaskova311/count.svg)
-
-<p>
-  <i>⭐ From <a href="https://github.com/tercasaskova311">tercasaskova311</a> - Open to collaborate on environmental & social justice projects!</i>
-</p>
-
-<p>
-  <i>💬 Happy to help with big data pipelines, ML tasks, and geospatial analysis</i>
-</p>
-
-<p>
-  <i>Last Updated: December 2024</i>
-</p>
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=8B1538&height=100&section=footer)
-
-<!-- Proudly created with passion for data science & environmental protection 🌍 -->
