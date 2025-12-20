@@ -24,74 +24,26 @@ Build an automated system to detect logging/deforestation events in Šumava Nati
 ⚙️ **Data Engineering** 
 A web app for Ski Zadov, automating weekly ski school registrations. A Flask + PostgreSQL web app, that automates registration limits (8 out of 12 weeks). Automatically closes registration every Wednesday at 24:00 and provides an admin dashboard with Google Sheets synchronization.
 
-**Explore my pinned repos below!**
+_Scroll down for more projects & code!_
 
----
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
-
-### Big Data & Cloud
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-
-### ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
-
-### Web & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-
-### Visualization & Tools
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-
-### Development Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-
-# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,docker,kafka,spark,pytorch,tensorflow,sklearn,fastapi,flask,mongodb,duckdb,git,sql" alt="Tech Stack"/>
+</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tercasaskova311&theme=rose&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tercasaskova311&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
 
----
-
-### 🔝 Top Contributions & 🏆 Achievements
+### Top Contributions & 🐍 Snake
 
 <p align="center">
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=tercasaskova311&limit=5&theme=rose&combine_all_yearly_contributions=true"/>
+  <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=tercasaskova311&limit=5&theme=rose&combine_all_yearly_contributions=true"/>
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=tercasaskova311&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
+  <img height="180em" src="https://raw.githubusercontent.com/tercasaskova311/tercasaskova311/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4a0e4e,100:8B1538&height=120&section=footer)
 
-## 📈 Contribution Activity & 🐍 Snake
-
-<p align="center">
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=tercasaskova311&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
-  <img width="48%" height="180em" src="https://raw.githubusercontent.com/tercasaskova311/tercasaskova311/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
