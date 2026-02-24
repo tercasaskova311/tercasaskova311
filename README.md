@@ -7,17 +7,17 @@
 **🏆 Previously:** Mountain Bike Vice World Champion  
 
 ### What I'm interested in
-- 🔧 Data Engineering & big-data tech (Kafka, Spark, Airflow)
+- Earth Observation 
 - 🌲 Remote sensing & satellite imagery analysis, GIS
 - 🤖 ML for public good (environmental & social justice projects)
-- 📚 Currently learning: distributed computing, data modeling, advance SQL, Spark, satelite imaginery tools
+- 📚 Currently learning: SAR processing, distributed computing, data modeling, advance SQL, satelite imaginery tools
 
 🌐 Portfolio: [terezasaskova.com](https://www.terezasaskova.com) | 📧 Email: tereza.saskova@proton.me
 
 ## Currently Working On
 
 🛰️ **Deforestation Monitoring in Šumava National Park**
-Build an automated system to detect logging/deforestation events in Šumava National Park using satellite imagery from Sentinel2 and classical image processing techniques, train a ML model and design an architecture that can be deployed.
+Build an automated system to detect illegal logging/deforestation events in Šumava National Park using Sentinel2 and monitoring canopy together with RF model for more accurated monitoring combined with aerial based deep learning DeepForest model.
 
 ⚙️ **Data Engineering** 
 A web app for Ski Zadov, automating weekly ski school registrations. A Flask + PostgreSQL web app, that automates registration limits (8 out of 12 weeks). Automatically closes registration every Wednesday at 24:00 and provides an admin dashboard with Google Sheets synchronization.
