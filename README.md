@@ -3,14 +3,14 @@
 ## Hi I'm Terka 👋
 
 **🎓 Currently:** M.Sc. Data Science @ University of Trento (2024–2026)  
-**💼 Also:** Database Coordinator for a ski & bike school, Program lead @ Sport Šumava  
+**💼 Also:** FBK intership - Digital Common lab (Data Science) | Database Coordinator for a ski & bike school, Program lead @ Sport Šumava  
 **🏆 Previously:** Mountain Bike Vice World Champion  
 
 ### What I'm interested in
 - Earth Observation 
 - 🌲 Remote sensing & satellite imagery analysis, GIS
 - 🤖 ML for public good (environmental & social justice projects)
-- 📚 Currently learning: SAR processing, distributed computing, data modeling, advance SQL, satelite imaginery tools
+- 📚 Currently learning: SAR processing, Geo AI, distributed computing, data modeling, advance SQL, satelite imaginery tools
 
 🌐 Portfolio: [terezasaskova.com](https://www.terezasaskova.com) | 📧 Email: tereza.saskova@proton.me
 
