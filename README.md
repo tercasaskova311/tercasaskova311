@@ -3,8 +3,7 @@
 ## Hi I'm Terka 👋
 
 **🎓 Currently:** M.Sc. Data Science @ University of Trento (2024–2026)  
-**💼 Also:** FBK intership - Digital Common lab (Data Science) | Database Coordinator for a ski & bike school, Program lead @ Sport Šumava  
-**🏆 Previously:** Mountain Bike Vice World Champion  
+**💼 Also:** FBK intership - Digital Common lab (Data Science) 
 
 ### What I'm interested in
 - Earth Observation 
@@ -16,11 +15,8 @@
 
 ## Currently Working On
 
-🛰️ **Deforestation Monitoring in Šumava National Park**
-Build an automated system to detect illegal logging/deforestation events in Šumava National Park using Sentinel2 and monitoring canopy together with RF model for more accurated monitoring combined with aerial based deep learning DeepForest model.
-
-⚙️ **Data Engineering** 
-A web app for Ski Zadov, automating weekly ski school registrations. A Flask + PostgreSQL web app, that automates registration limits (8 out of 12 weeks). Automatically closes registration every Wednesday at 24:00 and provides an admin dashboard with Google Sheets synchronization.
+🛰️ **Single Tree Detection**
+Pipeline for tree detection from orthophots - using Deep Forest & SAM 2.
 
 _Scroll down for more projects & code!_
 
