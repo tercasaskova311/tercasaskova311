@@ -2,10 +2,11 @@
 
 ## Hi I'm Terka 👋
 
-**🎓 Currently:** M.Sc. Data Science @ University of Trento (2024–2026)  
-**💼 Also:** FBK intership - Digital Common lab (Data Science) 
+**🎓 M.Sc. Data Science Graduate @ University of Trento (2024–2026)  
+**💼 Also:** FBK intership - Digital Common lab (Data Science, 2026) 
 
 ### What I'm interested in
+- Data Engineering (Lightweight system, Spark, Kafka, DuckDB)
 - Earth Observation 
 - 🌲 Remote sensing & satellite imagery analysis, GIS
 - 🤖 ML for public good (environmental & social justice projects)
